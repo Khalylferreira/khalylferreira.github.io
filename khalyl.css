@@ -7,6 +7,8 @@ table, th, td {
  display: flex;
 
 }
+border-collapse: collapse;
+  width: 50%;
 
 
 
