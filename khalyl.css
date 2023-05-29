@@ -9,7 +9,7 @@ table, th, td {
 }
 border-collapse: collapse;
   width: 50%;
-
+<style>
 .flex-container {
   display: flex;
   background-color: #f1f1f1;
